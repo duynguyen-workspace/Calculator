@@ -2,6 +2,8 @@
 
 This is a simple calculator application built for Android using Android Studio and Java. The app provides basic arithmetic operations with a colorful user interface.
 
+![Calculator App Screenshot](Screenshot.png)
+
 ## Features
 
 - **Basic Operations**: Supports addition, subtraction, multiplication, and division.
